@@ -13,6 +13,4 @@ public class IpPort {
         this.ip = ip;
         this.port = port;
     }
-
-
 }
